@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#0#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:milk_bucket"
+    },
+    "0": {
+      "item": "minecraft:podzol"
+    }
+  },
+  "result": {
+    "item": "bettercheesemodel:podzol",
+    "count": 1
+  }
+}

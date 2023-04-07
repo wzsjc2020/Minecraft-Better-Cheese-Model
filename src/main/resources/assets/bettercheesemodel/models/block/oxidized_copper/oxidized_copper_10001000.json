@@ -1,0 +1,47 @@
+{
+	"credit":"Made with Cheese Model Generator",
+	"parent":"block/block",
+	"elements":[
+		{
+			"faces":{
+				"down":{
+					"cullface":"down",
+					"texture":"#side"
+				},
+				"east":{
+					"cullface":"east",
+					"texture":"#side"
+				},
+				"north":{
+					"texture":"#all"
+				},
+				"south":{
+					"cullface":"south",
+					"texture":"#side"
+				},
+				"up":{
+					"cullface":"up",
+					"texture":"#side"
+				},
+				"west":{
+					"texture":"#all"
+				}
+			},
+			"from":[
+				8.0,
+				0.0,
+				8.0
+			],
+			"to":[
+				16.0,
+				16.0,
+				16.0
+			]
+		}
+	],
+	"textures":{
+		"all":"bettercheesemodel:block/oxidized_copper_mid",
+		"particle":"bettercheesemodel:block/oxidized_copper_side",
+		"side":"bettercheesemodel:block/oxidized_copper_side"
+	}
+}

@@ -1,0 +1,769 @@
+{
+  "variants": {
+    "slices=1": {
+      "model": "bettercheesemodel:block/melon/melon_1"
+    },
+    "slices=10": {
+      "model": "bettercheesemodel:block/melon/melon_1010"
+    },
+    "slices=100": {
+      "model": "bettercheesemodel:block/melon/melon_1100100"
+    },
+    "slices=101": {
+      "model": "bettercheesemodel:block/melon/melon_1100101"
+    },
+    "slices=102": {
+      "model": "bettercheesemodel:block/melon/melon_1100110"
+    },
+    "slices=103": {
+      "model": "bettercheesemodel:block/melon/melon_1100111"
+    },
+    "slices=104": {
+      "model": "bettercheesemodel:block/melon/melon_1101000"
+    },
+    "slices=105": {
+      "model": "bettercheesemodel:block/melon/melon_1101001"
+    },
+    "slices=106": {
+      "model": "bettercheesemodel:block/melon/melon_1101010"
+    },
+    "slices=107": {
+      "model": "bettercheesemodel:block/melon/melon_1101011"
+    },
+    "slices=108": {
+      "model": "bettercheesemodel:block/melon/melon_1101100"
+    },
+    "slices=109": {
+      "model": "bettercheesemodel:block/melon/melon_1101101"
+    },
+    "slices=11": {
+      "model": "bettercheesemodel:block/melon/melon_1011"
+    },
+    "slices=110": {
+      "model": "bettercheesemodel:block/melon/melon_1101110"
+    },
+    "slices=111": {
+      "model": "bettercheesemodel:block/melon/melon_1101111"
+    },
+    "slices=112": {
+      "model": "bettercheesemodel:block/melon/melon_1110000"
+    },
+    "slices=113": {
+      "model": "bettercheesemodel:block/melon/melon_1110001"
+    },
+    "slices=114": {
+      "model": "bettercheesemodel:block/melon/melon_1110010"
+    },
+    "slices=115": {
+      "model": "bettercheesemodel:block/melon/melon_1110011"
+    },
+    "slices=116": {
+      "model": "bettercheesemodel:block/melon/melon_1110100"
+    },
+    "slices=117": {
+      "model": "bettercheesemodel:block/melon/melon_1110101"
+    },
+    "slices=118": {
+      "model": "bettercheesemodel:block/melon/melon_1110110"
+    },
+    "slices=119": {
+      "model": "bettercheesemodel:block/melon/melon_1110111"
+    },
+    "slices=12": {
+      "model": "bettercheesemodel:block/melon/melon_1100"
+    },
+    "slices=120": {
+      "model": "bettercheesemodel:block/melon/melon_1111000"
+    },
+    "slices=121": {
+      "model": "bettercheesemodel:block/melon/melon_1111001"
+    },
+    "slices=122": {
+      "model": "bettercheesemodel:block/melon/melon_1111010"
+    },
+    "slices=123": {
+      "model": "bettercheesemodel:block/melon/melon_1111011"
+    },
+    "slices=124": {
+      "model": "bettercheesemodel:block/melon/melon_1111100"
+    },
+    "slices=125": {
+      "model": "bettercheesemodel:block/melon/melon_1111101"
+    },
+    "slices=126": {
+      "model": "bettercheesemodel:block/melon/melon_1111110"
+    },
+    "slices=127": {
+      "model": "bettercheesemodel:block/melon/melon_1111111"
+    },
+    "slices=128": {
+      "model": "bettercheesemodel:block/melon/melon_10000000"
+    },
+    "slices=129": {
+      "model": "bettercheesemodel:block/melon/melon_10000001"
+    },
+    "slices=13": {
+      "model": "bettercheesemodel:block/melon/melon_1101"
+    },
+    "slices=130": {
+      "model": "bettercheesemodel:block/melon/melon_10000010"
+    },
+    "slices=131": {
+      "model": "bettercheesemodel:block/melon/melon_10000011"
+    },
+    "slices=132": {
+      "model": "bettercheesemodel:block/melon/melon_10000100"
+    },
+    "slices=133": {
+      "model": "bettercheesemodel:block/melon/melon_10000101"
+    },
+    "slices=134": {
+      "model": "bettercheesemodel:block/melon/melon_10000110"
+    },
+    "slices=135": {
+      "model": "bettercheesemodel:block/melon/melon_10000111"
+    },
+    "slices=136": {
+      "model": "bettercheesemodel:block/melon/melon_10001000"
+    },
+    "slices=137": {
+      "model": "bettercheesemodel:block/melon/melon_10001001"
+    },
+    "slices=138": {
+      "model": "bettercheesemodel:block/melon/melon_10001010"
+    },
+    "slices=139": {
+      "model": "bettercheesemodel:block/melon/melon_10001011"
+    },
+    "slices=14": {
+      "model": "bettercheesemodel:block/melon/melon_1110"
+    },
+    "slices=140": {
+      "model": "bettercheesemodel:block/melon/melon_10001100"
+    },
+    "slices=141": {
+      "model": "bettercheesemodel:block/melon/melon_10001101"
+    },
+    "slices=142": {
+      "model": "bettercheesemodel:block/melon/melon_10001110"
+    },
+    "slices=143": {
+      "model": "bettercheesemodel:block/melon/melon_10001111"
+    },
+    "slices=144": {
+      "model": "bettercheesemodel:block/melon/melon_10010000"
+    },
+    "slices=145": {
+      "model": "bettercheesemodel:block/melon/melon_10010001"
+    },
+    "slices=146": {
+      "model": "bettercheesemodel:block/melon/melon_10010010"
+    },
+    "slices=147": {
+      "model": "bettercheesemodel:block/melon/melon_10010011"
+    },
+    "slices=148": {
+      "model": "bettercheesemodel:block/melon/melon_10010100"
+    },
+    "slices=149": {
+      "model": "bettercheesemodel:block/melon/melon_10010101"
+    },
+    "slices=15": {
+      "model": "bettercheesemodel:block/melon/melon_1111"
+    },
+    "slices=150": {
+      "model": "bettercheesemodel:block/melon/melon_10010110"
+    },
+    "slices=151": {
+      "model": "bettercheesemodel:block/melon/melon_10010111"
+    },
+    "slices=152": {
+      "model": "bettercheesemodel:block/melon/melon_10011000"
+    },
+    "slices=153": {
+      "model": "bettercheesemodel:block/melon/melon_10011001"
+    },
+    "slices=154": {
+      "model": "bettercheesemodel:block/melon/melon_10011010"
+    },
+    "slices=155": {
+      "model": "bettercheesemodel:block/melon/melon_10011011"
+    },
+    "slices=156": {
+      "model": "bettercheesemodel:block/melon/melon_10011100"
+    },
+    "slices=157": {
+      "model": "bettercheesemodel:block/melon/melon_10011101"
+    },
+    "slices=158": {
+      "model": "bettercheesemodel:block/melon/melon_10011110"
+    },
+    "slices=159": {
+      "model": "bettercheesemodel:block/melon/melon_10011111"
+    },
+    "slices=16": {
+      "model": "bettercheesemodel:block/melon/melon_10000"
+    },
+    "slices=160": {
+      "model": "bettercheesemodel:block/melon/melon_10100000"
+    },
+    "slices=161": {
+      "model": "bettercheesemodel:block/melon/melon_10100001"
+    },
+    "slices=162": {
+      "model": "bettercheesemodel:block/melon/melon_10100010"
+    },
+    "slices=163": {
+      "model": "bettercheesemodel:block/melon/melon_10100011"
+    },
+    "slices=164": {
+      "model": "bettercheesemodel:block/melon/melon_10100100"
+    },
+    "slices=165": {
+      "model": "bettercheesemodel:block/melon/melon_10100101"
+    },
+    "slices=166": {
+      "model": "bettercheesemodel:block/melon/melon_10100110"
+    },
+    "slices=167": {
+      "model": "bettercheesemodel:block/melon/melon_10100111"
+    },
+    "slices=168": {
+      "model": "bettercheesemodel:block/melon/melon_10101000"
+    },
+    "slices=169": {
+      "model": "bettercheesemodel:block/melon/melon_10101001"
+    },
+    "slices=17": {
+      "model": "bettercheesemodel:block/melon/melon_10001"
+    },
+    "slices=170": {
+      "model": "bettercheesemodel:block/melon/melon_10101010"
+    },
+    "slices=171": {
+      "model": "bettercheesemodel:block/melon/melon_10101011"
+    },
+    "slices=172": {
+      "model": "bettercheesemodel:block/melon/melon_10101100"
+    },
+    "slices=173": {
+      "model": "bettercheesemodel:block/melon/melon_10101101"
+    },
+    "slices=174": {
+      "model": "bettercheesemodel:block/melon/melon_10101110"
+    },
+    "slices=175": {
+      "model": "bettercheesemodel:block/melon/melon_10101111"
+    },
+    "slices=176": {
+      "model": "bettercheesemodel:block/melon/melon_10110000"
+    },
+    "slices=177": {
+      "model": "bettercheesemodel:block/melon/melon_10110001"
+    },
+    "slices=178": {
+      "model": "bettercheesemodel:block/melon/melon_10110010"
+    },
+    "slices=179": {
+      "model": "bettercheesemodel:block/melon/melon_10110011"
+    },
+    "slices=18": {
+      "model": "bettercheesemodel:block/melon/melon_10010"
+    },
+    "slices=180": {
+      "model": "bettercheesemodel:block/melon/melon_10110100"
+    },
+    "slices=181": {
+      "model": "bettercheesemodel:block/melon/melon_10110101"
+    },
+    "slices=182": {
+      "model": "bettercheesemodel:block/melon/melon_10110110"
+    },
+    "slices=183": {
+      "model": "bettercheesemodel:block/melon/melon_10110111"
+    },
+    "slices=184": {
+      "model": "bettercheesemodel:block/melon/melon_10111000"
+    },
+    "slices=185": {
+      "model": "bettercheesemodel:block/melon/melon_10111001"
+    },
+    "slices=186": {
+      "model": "bettercheesemodel:block/melon/melon_10111010"
+    },
+    "slices=187": {
+      "model": "bettercheesemodel:block/melon/melon_10111011"
+    },
+    "slices=188": {
+      "model": "bettercheesemodel:block/melon/melon_10111100"
+    },
+    "slices=189": {
+      "model": "bettercheesemodel:block/melon/melon_10111101"
+    },
+    "slices=19": {
+      "model": "bettercheesemodel:block/melon/melon_10011"
+    },
+    "slices=190": {
+      "model": "bettercheesemodel:block/melon/melon_10111110"
+    },
+    "slices=191": {
+      "model": "bettercheesemodel:block/melon/melon_10111111"
+    },
+    "slices=192": {
+      "model": "bettercheesemodel:block/melon/melon_11000000"
+    },
+    "slices=193": {
+      "model": "bettercheesemodel:block/melon/melon_11000001"
+    },
+    "slices=194": {
+      "model": "bettercheesemodel:block/melon/melon_11000010"
+    },
+    "slices=195": {
+      "model": "bettercheesemodel:block/melon/melon_11000011"
+    },
+    "slices=196": {
+      "model": "bettercheesemodel:block/melon/melon_11000100"
+    },
+    "slices=197": {
+      "model": "bettercheesemodel:block/melon/melon_11000101"
+    },
+    "slices=198": {
+      "model": "bettercheesemodel:block/melon/melon_11000110"
+    },
+    "slices=199": {
+      "model": "bettercheesemodel:block/melon/melon_11000111"
+    },
+    "slices=2": {
+      "model": "bettercheesemodel:block/melon/melon_10"
+    },
+    "slices=20": {
+      "model": "bettercheesemodel:block/melon/melon_10100"
+    },
+    "slices=200": {
+      "model": "bettercheesemodel:block/melon/melon_11001000"
+    },
+    "slices=201": {
+      "model": "bettercheesemodel:block/melon/melon_11001001"
+    },
+    "slices=202": {
+      "model": "bettercheesemodel:block/melon/melon_11001010"
+    },
+    "slices=203": {
+      "model": "bettercheesemodel:block/melon/melon_11001011"
+    },
+    "slices=204": {
+      "model": "bettercheesemodel:block/melon/melon_11001100"
+    },
+    "slices=205": {
+      "model": "bettercheesemodel:block/melon/melon_11001101"
+    },
+    "slices=206": {
+      "model": "bettercheesemodel:block/melon/melon_11001110"
+    },
+    "slices=207": {
+      "model": "bettercheesemodel:block/melon/melon_11001111"
+    },
+    "slices=208": {
+      "model": "bettercheesemodel:block/melon/melon_11010000"
+    },
+    "slices=209": {
+      "model": "bettercheesemodel:block/melon/melon_11010001"
+    },
+    "slices=21": {
+      "model": "bettercheesemodel:block/melon/melon_10101"
+    },
+    "slices=210": {
+      "model": "bettercheesemodel:block/melon/melon_11010010"
+    },
+    "slices=211": {
+      "model": "bettercheesemodel:block/melon/melon_11010011"
+    },
+    "slices=212": {
+      "model": "bettercheesemodel:block/melon/melon_11010100"
+    },
+    "slices=213": {
+      "model": "bettercheesemodel:block/melon/melon_11010101"
+    },
+    "slices=214": {
+      "model": "bettercheesemodel:block/melon/melon_11010110"
+    },
+    "slices=215": {
+      "model": "bettercheesemodel:block/melon/melon_11010111"
+    },
+    "slices=216": {
+      "model": "bettercheesemodel:block/melon/melon_11011000"
+    },
+    "slices=217": {
+      "model": "bettercheesemodel:block/melon/melon_11011001"
+    },
+    "slices=218": {
+      "model": "bettercheesemodel:block/melon/melon_11011010"
+    },
+    "slices=219": {
+      "model": "bettercheesemodel:block/melon/melon_11011011"
+    },
+    "slices=22": {
+      "model": "bettercheesemodel:block/melon/melon_10110"
+    },
+    "slices=220": {
+      "model": "bettercheesemodel:block/melon/melon_11011100"
+    },
+    "slices=221": {
+      "model": "bettercheesemodel:block/melon/melon_11011101"
+    },
+    "slices=222": {
+      "model": "bettercheesemodel:block/melon/melon_11011110"
+    },
+    "slices=223": {
+      "model": "bettercheesemodel:block/melon/melon_11011111"
+    },
+    "slices=224": {
+      "model": "bettercheesemodel:block/melon/melon_11100000"
+    },
+    "slices=225": {
+      "model": "bettercheesemodel:block/melon/melon_11100001"
+    },
+    "slices=226": {
+      "model": "bettercheesemodel:block/melon/melon_11100010"
+    },
+    "slices=227": {
+      "model": "bettercheesemodel:block/melon/melon_11100011"
+    },
+    "slices=228": {
+      "model": "bettercheesemodel:block/melon/melon_11100100"
+    },
+    "slices=229": {
+      "model": "bettercheesemodel:block/melon/melon_11100101"
+    },
+    "slices=23": {
+      "model": "bettercheesemodel:block/melon/melon_10111"
+    },
+    "slices=230": {
+      "model": "bettercheesemodel:block/melon/melon_11100110"
+    },
+    "slices=231": {
+      "model": "bettercheesemodel:block/melon/melon_11100111"
+    },
+    "slices=232": {
+      "model": "bettercheesemodel:block/melon/melon_11101000"
+    },
+    "slices=233": {
+      "model": "bettercheesemodel:block/melon/melon_11101001"
+    },
+    "slices=234": {
+      "model": "bettercheesemodel:block/melon/melon_11101010"
+    },
+    "slices=235": {
+      "model": "bettercheesemodel:block/melon/melon_11101011"
+    },
+    "slices=236": {
+      "model": "bettercheesemodel:block/melon/melon_11101100"
+    },
+    "slices=237": {
+      "model": "bettercheesemodel:block/melon/melon_11101101"
+    },
+    "slices=238": {
+      "model": "bettercheesemodel:block/melon/melon_11101110"
+    },
+    "slices=239": {
+      "model": "bettercheesemodel:block/melon/melon_11101111"
+    },
+    "slices=24": {
+      "model": "bettercheesemodel:block/melon/melon_11000"
+    },
+    "slices=240": {
+      "model": "bettercheesemodel:block/melon/melon_11110000"
+    },
+    "slices=241": {
+      "model": "bettercheesemodel:block/melon/melon_11110001"
+    },
+    "slices=242": {
+      "model": "bettercheesemodel:block/melon/melon_11110010"
+    },
+    "slices=243": {
+      "model": "bettercheesemodel:block/melon/melon_11110011"
+    },
+    "slices=244": {
+      "model": "bettercheesemodel:block/melon/melon_11110100"
+    },
+    "slices=245": {
+      "model": "bettercheesemodel:block/melon/melon_11110101"
+    },
+    "slices=246": {
+      "model": "bettercheesemodel:block/melon/melon_11110110"
+    },
+    "slices=247": {
+      "model": "bettercheesemodel:block/melon/melon_11110111"
+    },
+    "slices=248": {
+      "model": "bettercheesemodel:block/melon/melon_11111000"
+    },
+    "slices=249": {
+      "model": "bettercheesemodel:block/melon/melon_11111001"
+    },
+    "slices=25": {
+      "model": "bettercheesemodel:block/melon/melon_11001"
+    },
+    "slices=250": {
+      "model": "bettercheesemodel:block/melon/melon_11111010"
+    },
+    "slices=251": {
+      "model": "bettercheesemodel:block/melon/melon_11111011"
+    },
+    "slices=252": {
+      "model": "bettercheesemodel:block/melon/melon_11111100"
+    },
+    "slices=253": {
+      "model": "bettercheesemodel:block/melon/melon_11111101"
+    },
+    "slices=254": {
+      "model": "bettercheesemodel:block/melon/melon_11111110"
+    },
+    "slices=255": {
+      "model": "bettercheesemodel:block/melon/melon_11111111"
+    },
+    "slices=26": {
+      "model": "bettercheesemodel:block/melon/melon_11010"
+    },
+    "slices=27": {
+      "model": "bettercheesemodel:block/melon/melon_11011"
+    },
+    "slices=28": {
+      "model": "bettercheesemodel:block/melon/melon_11100"
+    },
+    "slices=29": {
+      "model": "bettercheesemodel:block/melon/melon_11101"
+    },
+    "slices=3": {
+      "model": "bettercheesemodel:block/melon/melon_11"
+    },
+    "slices=30": {
+      "model": "bettercheesemodel:block/melon/melon_11110"
+    },
+    "slices=31": {
+      "model": "bettercheesemodel:block/melon/melon_11111"
+    },
+    "slices=32": {
+      "model": "bettercheesemodel:block/melon/melon_100000"
+    },
+    "slices=33": {
+      "model": "bettercheesemodel:block/melon/melon_100001"
+    },
+    "slices=34": {
+      "model": "bettercheesemodel:block/melon/melon_100010"
+    },
+    "slices=35": {
+      "model": "bettercheesemodel:block/melon/melon_100011"
+    },
+    "slices=36": {
+      "model": "bettercheesemodel:block/melon/melon_100100"
+    },
+    "slices=37": {
+      "model": "bettercheesemodel:block/melon/melon_100101"
+    },
+    "slices=38": {
+      "model": "bettercheesemodel:block/melon/melon_100110"
+    },
+    "slices=39": {
+      "model": "bettercheesemodel:block/melon/melon_100111"
+    },
+    "slices=4": {
+      "model": "bettercheesemodel:block/melon/melon_100"
+    },
+    "slices=40": {
+      "model": "bettercheesemodel:block/melon/melon_101000"
+    },
+    "slices=41": {
+      "model": "bettercheesemodel:block/melon/melon_101001"
+    },
+    "slices=42": {
+      "model": "bettercheesemodel:block/melon/melon_101010"
+    },
+    "slices=43": {
+      "model": "bettercheesemodel:block/melon/melon_101011"
+    },
+    "slices=44": {
+      "model": "bettercheesemodel:block/melon/melon_101100"
+    },
+    "slices=45": {
+      "model": "bettercheesemodel:block/melon/melon_101101"
+    },
+    "slices=46": {
+      "model": "bettercheesemodel:block/melon/melon_101110"
+    },
+    "slices=47": {
+      "model": "bettercheesemodel:block/melon/melon_101111"
+    },
+    "slices=48": {
+      "model": "bettercheesemodel:block/melon/melon_110000"
+    },
+    "slices=49": {
+      "model": "bettercheesemodel:block/melon/melon_110001"
+    },
+    "slices=5": {
+      "model": "bettercheesemodel:block/melon/melon_101"
+    },
+    "slices=50": {
+      "model": "bettercheesemodel:block/melon/melon_110010"
+    },
+    "slices=51": {
+      "model": "bettercheesemodel:block/melon/melon_110011"
+    },
+    "slices=52": {
+      "model": "bettercheesemodel:block/melon/melon_110100"
+    },
+    "slices=53": {
+      "model": "bettercheesemodel:block/melon/melon_110101"
+    },
+    "slices=54": {
+      "model": "bettercheesemodel:block/melon/melon_110110"
+    },
+    "slices=55": {
+      "model": "bettercheesemodel:block/melon/melon_110111"
+    },
+    "slices=56": {
+      "model": "bettercheesemodel:block/melon/melon_111000"
+    },
+    "slices=57": {
+      "model": "bettercheesemodel:block/melon/melon_111001"
+    },
+    "slices=58": {
+      "model": "bettercheesemodel:block/melon/melon_111010"
+    },
+    "slices=59": {
+      "model": "bettercheesemodel:block/melon/melon_111011"
+    },
+    "slices=6": {
+      "model": "bettercheesemodel:block/melon/melon_110"
+    },
+    "slices=60": {
+      "model": "bettercheesemodel:block/melon/melon_111100"
+    },
+    "slices=61": {
+      "model": "bettercheesemodel:block/melon/melon_111101"
+    },
+    "slices=62": {
+      "model": "bettercheesemodel:block/melon/melon_111110"
+    },
+    "slices=63": {
+      "model": "bettercheesemodel:block/melon/melon_111111"
+    },
+    "slices=64": {
+      "model": "bettercheesemodel:block/melon/melon_1000000"
+    },
+    "slices=65": {
+      "model": "bettercheesemodel:block/melon/melon_1000001"
+    },
+    "slices=66": {
+      "model": "bettercheesemodel:block/melon/melon_1000010"
+    },
+    "slices=67": {
+      "model": "bettercheesemodel:block/melon/melon_1000011"
+    },
+    "slices=68": {
+      "model": "bettercheesemodel:block/melon/melon_1000100"
+    },
+    "slices=69": {
+      "model": "bettercheesemodel:block/melon/melon_1000101"
+    },
+    "slices=7": {
+      "model": "bettercheesemodel:block/melon/melon_111"
+    },
+    "slices=70": {
+      "model": "bettercheesemodel:block/melon/melon_1000110"
+    },
+    "slices=71": {
+      "model": "bettercheesemodel:block/melon/melon_1000111"
+    },
+    "slices=72": {
+      "model": "bettercheesemodel:block/melon/melon_1001000"
+    },
+    "slices=73": {
+      "model": "bettercheesemodel:block/melon/melon_1001001"
+    },
+    "slices=74": {
+      "model": "bettercheesemodel:block/melon/melon_1001010"
+    },
+    "slices=75": {
+      "model": "bettercheesemodel:block/melon/melon_1001011"
+    },
+    "slices=76": {
+      "model": "bettercheesemodel:block/melon/melon_1001100"
+    },
+    "slices=77": {
+      "model": "bettercheesemodel:block/melon/melon_1001101"
+    },
+    "slices=78": {
+      "model": "bettercheesemodel:block/melon/melon_1001110"
+    },
+    "slices=79": {
+      "model": "bettercheesemodel:block/melon/melon_1001111"
+    },
+    "slices=8": {
+      "model": "bettercheesemodel:block/melon/melon_1000"
+    },
+    "slices=80": {
+      "model": "bettercheesemodel:block/melon/melon_1010000"
+    },
+    "slices=81": {
+      "model": "bettercheesemodel:block/melon/melon_1010001"
+    },
+    "slices=82": {
+      "model": "bettercheesemodel:block/melon/melon_1010010"
+    },
+    "slices=83": {
+      "model": "bettercheesemodel:block/melon/melon_1010011"
+    },
+    "slices=84": {
+      "model": "bettercheesemodel:block/melon/melon_1010100"
+    },
+    "slices=85": {
+      "model": "bettercheesemodel:block/melon/melon_1010101"
+    },
+    "slices=86": {
+      "model": "bettercheesemodel:block/melon/melon_1010110"
+    },
+    "slices=87": {
+      "model": "bettercheesemodel:block/melon/melon_1010111"
+    },
+    "slices=88": {
+      "model": "bettercheesemodel:block/melon/melon_1011000"
+    },
+    "slices=89": {
+      "model": "bettercheesemodel:block/melon/melon_1011001"
+    },
+    "slices=9": {
+      "model": "bettercheesemodel:block/melon/melon_1001"
+    },
+    "slices=90": {
+      "model": "bettercheesemodel:block/melon/melon_1011010"
+    },
+    "slices=91": {
+      "model": "bettercheesemodel:block/melon/melon_1011011"
+    },
+    "slices=92": {
+      "model": "bettercheesemodel:block/melon/melon_1011100"
+    },
+    "slices=93": {
+      "model": "bettercheesemodel:block/melon/melon_1011101"
+    },
+    "slices=94": {
+      "model": "bettercheesemodel:block/melon/melon_1011110"
+    },
+    "slices=95": {
+      "model": "bettercheesemodel:block/melon/melon_1011111"
+    },
+    "slices=96": {
+      "model": "bettercheesemodel:block/melon/melon_1100000"
+    },
+    "slices=97": {
+      "model": "bettercheesemodel:block/melon/melon_1100001"
+    },
+    "slices=98": {
+      "model": "bettercheesemodel:block/melon/melon_1100010"
+    },
+    "slices=99": {
+      "model": "bettercheesemodel:block/melon/melon_1100011"
+    }
+  }
+}
