@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#0#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:milk_bucket"
+    },
+    "0": {
+      "item": "minecraft:oak_leaves"
+    }
+  },
+  "result": {
+    "item": "bettercheesemodel:oak_leaves",
+    "count": 1
+  }
+}

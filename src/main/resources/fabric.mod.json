@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "bettercheesemodel",
-  "version": "17.1.0",
+  "version": "17.1.1",
 
   "name": "Better Cheese Model",
   "description": "adding more blocks using cheese model",
@@ -19,6 +19,9 @@
   "entrypoints": {
     "main": [
       "com.wzssoft.bettercheesemodel.BCMMod"
+    ],
+    "client": [
+      "com.wzssoft.bettercheesemodel.BCMClient"
     ]
   },
   "mixins": [

@@ -18,6 +18,10 @@ public class BCMItemGroups {
                 entries.add(BCMBlockItems.MELON_BLOCK_ITEM);
                 entries.add(BCMBlockItems.OXIDIZED_COPPER_BLOCK_ITEM);
                 entries.add(BCMBlockItems.PODZOL_BLOCK_ITEM);
+                entries.add(BCMBlockItems.BOOKSHELF_BLOCK_ITEM);
+                entries.add(BCMBlockItems.OAK_LOG_BLOCK_ITEM);
+                entries.add(BCMBlockItems.OAK_LEAVES_BLOCK_ITEM);
+                entries.add(BCMBlockItems.GLOBE_BLOCK_ITEM);
 
             })
             .build();

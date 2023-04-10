@@ -25,6 +25,7 @@ import net.minecraft.world.event.GameEvent;
 
 /**
  * the following code is copied from Minecraft 23w13a_or_b
+ * @reference cake
  */
 public class CheeseBlock extends Block {
     public static final int field_44222 = 8;
@@ -94,7 +95,7 @@ public class CheeseBlock extends Block {
         }
         if (!world.isClient) {
             world.syncWorldEvent(2010, pos, i);
-            player.getHungerManager().add(1, 0.1f);
+            player.getHungerManager().add(2, 0.2f);
             world.playSound(null, pos, SoundEvents.ENTITY_GENERIC_EAT, SoundCategory.PLAYERS, 0.5f, 0.5f);
             world.emitGameEvent((Entity) player, GameEvent.EAT, pos);
         } else {

@@ -1,0 +1,2299 @@
+{
+  "variants": {
+    "axis=x,slices=1": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1"
+    },
+    "axis=x,slices=10": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1010"
+    },
+    "axis=x,slices=100": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1100100"
+    },
+    "axis=x,slices=101": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1100101"
+    },
+    "axis=x,slices=102": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1100110"
+    },
+    "axis=x,slices=103": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1100111"
+    },
+    "axis=x,slices=104": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1101000"
+    },
+    "axis=x,slices=105": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1101001"
+    },
+    "axis=x,slices=106": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1101010"
+    },
+    "axis=x,slices=107": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1101011"
+    },
+    "axis=x,slices=108": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1101100"
+    },
+    "axis=x,slices=109": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1101101"
+    },
+    "axis=x,slices=11": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1011"
+    },
+    "axis=x,slices=110": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1101110"
+    },
+    "axis=x,slices=111": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1101111"
+    },
+    "axis=x,slices=112": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1110000"
+    },
+    "axis=x,slices=113": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1110001"
+    },
+    "axis=x,slices=114": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1110010"
+    },
+    "axis=x,slices=115": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1110011"
+    },
+    "axis=x,slices=116": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1110100"
+    },
+    "axis=x,slices=117": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1110101"
+    },
+    "axis=x,slices=118": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1110110"
+    },
+    "axis=x,slices=119": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1110111"
+    },
+    "axis=x,slices=12": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1100"
+    },
+    "axis=x,slices=120": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1111000"
+    },
+    "axis=x,slices=121": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1111001"
+    },
+    "axis=x,slices=122": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1111010"
+    },
+    "axis=x,slices=123": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1111011"
+    },
+    "axis=x,slices=124": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1111100"
+    },
+    "axis=x,slices=125": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1111101"
+    },
+    "axis=x,slices=126": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1111110"
+    },
+    "axis=x,slices=127": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1111111"
+    },
+    "axis=x,slices=128": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10000000"
+    },
+    "axis=x,slices=129": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10000001"
+    },
+    "axis=x,slices=13": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1101"
+    },
+    "axis=x,slices=130": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10000010"
+    },
+    "axis=x,slices=131": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10000011"
+    },
+    "axis=x,slices=132": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10000100"
+    },
+    "axis=x,slices=133": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10000101"
+    },
+    "axis=x,slices=134": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10000110"
+    },
+    "axis=x,slices=135": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10000111"
+    },
+    "axis=x,slices=136": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10001000"
+    },
+    "axis=x,slices=137": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10001001"
+    },
+    "axis=x,slices=138": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10001010"
+    },
+    "axis=x,slices=139": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10001011"
+    },
+    "axis=x,slices=14": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1110"
+    },
+    "axis=x,slices=140": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10001100"
+    },
+    "axis=x,slices=141": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10001101"
+    },
+    "axis=x,slices=142": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10001110"
+    },
+    "axis=x,slices=143": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10001111"
+    },
+    "axis=x,slices=144": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10010000"
+    },
+    "axis=x,slices=145": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10010001"
+    },
+    "axis=x,slices=146": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10010010"
+    },
+    "axis=x,slices=147": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10010011"
+    },
+    "axis=x,slices=148": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10010100"
+    },
+    "axis=x,slices=149": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10010101"
+    },
+    "axis=x,slices=15": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1111"
+    },
+    "axis=x,slices=150": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10010110"
+    },
+    "axis=x,slices=151": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10010111"
+    },
+    "axis=x,slices=152": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10011000"
+    },
+    "axis=x,slices=153": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10011001"
+    },
+    "axis=x,slices=154": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10011010"
+    },
+    "axis=x,slices=155": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10011011"
+    },
+    "axis=x,slices=156": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10011100"
+    },
+    "axis=x,slices=157": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10011101"
+    },
+    "axis=x,slices=158": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10011110"
+    },
+    "axis=x,slices=159": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10011111"
+    },
+    "axis=x,slices=16": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10000"
+    },
+    "axis=x,slices=160": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10100000"
+    },
+    "axis=x,slices=161": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10100001"
+    },
+    "axis=x,slices=162": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10100010"
+    },
+    "axis=x,slices=163": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10100011"
+    },
+    "axis=x,slices=164": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10100100"
+    },
+    "axis=x,slices=165": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10100101"
+    },
+    "axis=x,slices=166": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10100110"
+    },
+    "axis=x,slices=167": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10100111"
+    },
+    "axis=x,slices=168": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10101000"
+    },
+    "axis=x,slices=169": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10101001"
+    },
+    "axis=x,slices=17": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10001"
+    },
+    "axis=x,slices=170": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10101010"
+    },
+    "axis=x,slices=171": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10101011"
+    },
+    "axis=x,slices=172": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10101100"
+    },
+    "axis=x,slices=173": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10101101"
+    },
+    "axis=x,slices=174": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10101110"
+    },
+    "axis=x,slices=175": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10101111"
+    },
+    "axis=x,slices=176": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10110000"
+    },
+    "axis=x,slices=177": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10110001"
+    },
+    "axis=x,slices=178": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10110010"
+    },
+    "axis=x,slices=179": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10110011"
+    },
+    "axis=x,slices=18": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10010"
+    },
+    "axis=x,slices=180": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10110100"
+    },
+    "axis=x,slices=181": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10110101"
+    },
+    "axis=x,slices=182": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10110110"
+    },
+    "axis=x,slices=183": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10110111"
+    },
+    "axis=x,slices=184": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10111000"
+    },
+    "axis=x,slices=185": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10111001"
+    },
+    "axis=x,slices=186": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10111010"
+    },
+    "axis=x,slices=187": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10111011"
+    },
+    "axis=x,slices=188": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10111100"
+    },
+    "axis=x,slices=189": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10111101"
+    },
+    "axis=x,slices=19": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10011"
+    },
+    "axis=x,slices=190": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10111110"
+    },
+    "axis=x,slices=191": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10111111"
+    },
+    "axis=x,slices=192": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11000000"
+    },
+    "axis=x,slices=193": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11000001"
+    },
+    "axis=x,slices=194": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11000010"
+    },
+    "axis=x,slices=195": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11000011"
+    },
+    "axis=x,slices=196": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11000100"
+    },
+    "axis=x,slices=197": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11000101"
+    },
+    "axis=x,slices=198": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11000110"
+    },
+    "axis=x,slices=199": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11000111"
+    },
+    "axis=x,slices=2": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10"
+    },
+    "axis=x,slices=20": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10100"
+    },
+    "axis=x,slices=200": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11001000"
+    },
+    "axis=x,slices=201": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11001001"
+    },
+    "axis=x,slices=202": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11001010"
+    },
+    "axis=x,slices=203": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11001011"
+    },
+    "axis=x,slices=204": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11001100"
+    },
+    "axis=x,slices=205": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11001101"
+    },
+    "axis=x,slices=206": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11001110"
+    },
+    "axis=x,slices=207": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11001111"
+    },
+    "axis=x,slices=208": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11010000"
+    },
+    "axis=x,slices=209": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11010001"
+    },
+    "axis=x,slices=21": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10101"
+    },
+    "axis=x,slices=210": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11010010"
+    },
+    "axis=x,slices=211": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11010011"
+    },
+    "axis=x,slices=212": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11010100"
+    },
+    "axis=x,slices=213": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11010101"
+    },
+    "axis=x,slices=214": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11010110"
+    },
+    "axis=x,slices=215": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11010111"
+    },
+    "axis=x,slices=216": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11011000"
+    },
+    "axis=x,slices=217": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11011001"
+    },
+    "axis=x,slices=218": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11011010"
+    },
+    "axis=x,slices=219": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11011011"
+    },
+    "axis=x,slices=22": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10110"
+    },
+    "axis=x,slices=220": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11011100"
+    },
+    "axis=x,slices=221": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11011101"
+    },
+    "axis=x,slices=222": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11011110"
+    },
+    "axis=x,slices=223": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11011111"
+    },
+    "axis=x,slices=224": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11100000"
+    },
+    "axis=x,slices=225": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11100001"
+    },
+    "axis=x,slices=226": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11100010"
+    },
+    "axis=x,slices=227": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11100011"
+    },
+    "axis=x,slices=228": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11100100"
+    },
+    "axis=x,slices=229": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11100101"
+    },
+    "axis=x,slices=23": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_10111"
+    },
+    "axis=x,slices=230": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11100110"
+    },
+    "axis=x,slices=231": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11100111"
+    },
+    "axis=x,slices=232": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11101000"
+    },
+    "axis=x,slices=233": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11101001"
+    },
+    "axis=x,slices=234": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11101010"
+    },
+    "axis=x,slices=235": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11101011"
+    },
+    "axis=x,slices=236": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11101100"
+    },
+    "axis=x,slices=237": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11101101"
+    },
+    "axis=x,slices=238": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11101110"
+    },
+    "axis=x,slices=239": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11101111"
+    },
+    "axis=x,slices=24": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11000"
+    },
+    "axis=x,slices=240": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11110000"
+    },
+    "axis=x,slices=241": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11110001"
+    },
+    "axis=x,slices=242": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11110010"
+    },
+    "axis=x,slices=243": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11110011"
+    },
+    "axis=x,slices=244": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11110100"
+    },
+    "axis=x,slices=245": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11110101"
+    },
+    "axis=x,slices=246": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11110110"
+    },
+    "axis=x,slices=247": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11110111"
+    },
+    "axis=x,slices=248": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11111000"
+    },
+    "axis=x,slices=249": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11111001"
+    },
+    "axis=x,slices=25": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11001"
+    },
+    "axis=x,slices=250": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11111010"
+    },
+    "axis=x,slices=251": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11111011"
+    },
+    "axis=x,slices=252": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11111100"
+    },
+    "axis=x,slices=253": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11111101"
+    },
+    "axis=x,slices=254": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11111110"
+    },
+    "axis=x,slices=255": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11111111"
+    },
+    "axis=x,slices=26": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11010"
+    },
+    "axis=x,slices=27": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11011"
+    },
+    "axis=x,slices=28": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11100"
+    },
+    "axis=x,slices=29": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11101"
+    },
+    "axis=x,slices=3": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11"
+    },
+    "axis=x,slices=30": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11110"
+    },
+    "axis=x,slices=31": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_11111"
+    },
+    "axis=x,slices=32": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_100000"
+    },
+    "axis=x,slices=33": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_100001"
+    },
+    "axis=x,slices=34": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_100010"
+    },
+    "axis=x,slices=35": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_100011"
+    },
+    "axis=x,slices=36": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_100100"
+    },
+    "axis=x,slices=37": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_100101"
+    },
+    "axis=x,slices=38": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_100110"
+    },
+    "axis=x,slices=39": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_100111"
+    },
+    "axis=x,slices=4": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_100"
+    },
+    "axis=x,slices=40": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_101000"
+    },
+    "axis=x,slices=41": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_101001"
+    },
+    "axis=x,slices=42": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_101010"
+    },
+    "axis=x,slices=43": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_101011"
+    },
+    "axis=x,slices=44": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_101100"
+    },
+    "axis=x,slices=45": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_101101"
+    },
+    "axis=x,slices=46": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_101110"
+    },
+    "axis=x,slices=47": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_101111"
+    },
+    "axis=x,slices=48": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_110000"
+    },
+    "axis=x,slices=49": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_110001"
+    },
+    "axis=x,slices=5": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_101"
+    },
+    "axis=x,slices=50": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_110010"
+    },
+    "axis=x,slices=51": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_110011"
+    },
+    "axis=x,slices=52": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_110100"
+    },
+    "axis=x,slices=53": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_110101"
+    },
+    "axis=x,slices=54": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_110110"
+    },
+    "axis=x,slices=55": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_110111"
+    },
+    "axis=x,slices=56": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_111000"
+    },
+    "axis=x,slices=57": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_111001"
+    },
+    "axis=x,slices=58": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_111010"
+    },
+    "axis=x,slices=59": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_111011"
+    },
+    "axis=x,slices=6": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_110"
+    },
+    "axis=x,slices=60": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_111100"
+    },
+    "axis=x,slices=61": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_111101"
+    },
+    "axis=x,slices=62": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_111110"
+    },
+    "axis=x,slices=63": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_111111"
+    },
+    "axis=x,slices=64": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1000000"
+    },
+    "axis=x,slices=65": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1000001"
+    },
+    "axis=x,slices=66": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1000010"
+    },
+    "axis=x,slices=67": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1000011"
+    },
+    "axis=x,slices=68": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1000100"
+    },
+    "axis=x,slices=69": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1000101"
+    },
+    "axis=x,slices=7": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_111"
+    },
+    "axis=x,slices=70": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1000110"
+    },
+    "axis=x,slices=71": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1000111"
+    },
+    "axis=x,slices=72": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1001000"
+    },
+    "axis=x,slices=73": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1001001"
+    },
+    "axis=x,slices=74": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1001010"
+    },
+    "axis=x,slices=75": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1001011"
+    },
+    "axis=x,slices=76": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1001100"
+    },
+    "axis=x,slices=77": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1001101"
+    },
+    "axis=x,slices=78": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1001110"
+    },
+    "axis=x,slices=79": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1001111"
+    },
+    "axis=x,slices=8": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1000"
+    },
+    "axis=x,slices=80": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1010000"
+    },
+    "axis=x,slices=81": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1010001"
+    },
+    "axis=x,slices=82": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1010010"
+    },
+    "axis=x,slices=83": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1010011"
+    },
+    "axis=x,slices=84": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1010100"
+    },
+    "axis=x,slices=85": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1010101"
+    },
+    "axis=x,slices=86": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1010110"
+    },
+    "axis=x,slices=87": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1010111"
+    },
+    "axis=x,slices=88": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1011000"
+    },
+    "axis=x,slices=89": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1011001"
+    },
+    "axis=x,slices=9": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1001"
+    },
+    "axis=x,slices=90": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1011010"
+    },
+    "axis=x,slices=91": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1011011"
+    },
+    "axis=x,slices=92": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1011100"
+    },
+    "axis=x,slices=93": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1011101"
+    },
+    "axis=x,slices=94": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1011110"
+    },
+    "axis=x,slices=95": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1011111"
+    },
+    "axis=x,slices=96": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1100000"
+    },
+    "axis=x,slices=97": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1100001"
+    },
+    "axis=x,slices=98": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1100010"
+    },
+    "axis=x,slices=99": {
+      "model": "bettercheesemodel:block/oak_log_x/oak_log_x_1100011"
+    },
+    "axis=y,slices=1": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1"
+    },
+    "axis=y,slices=10": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1010"
+    },
+    "axis=y,slices=100": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1100100"
+    },
+    "axis=y,slices=101": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1100101"
+    },
+    "axis=y,slices=102": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1100110"
+    },
+    "axis=y,slices=103": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1100111"
+    },
+    "axis=y,slices=104": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1101000"
+    },
+    "axis=y,slices=105": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1101001"
+    },
+    "axis=y,slices=106": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1101010"
+    },
+    "axis=y,slices=107": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1101011"
+    },
+    "axis=y,slices=108": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1101100"
+    },
+    "axis=y,slices=109": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1101101"
+    },
+    "axis=y,slices=11": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1011"
+    },
+    "axis=y,slices=110": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1101110"
+    },
+    "axis=y,slices=111": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1101111"
+    },
+    "axis=y,slices=112": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1110000"
+    },
+    "axis=y,slices=113": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1110001"
+    },
+    "axis=y,slices=114": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1110010"
+    },
+    "axis=y,slices=115": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1110011"
+    },
+    "axis=y,slices=116": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1110100"
+    },
+    "axis=y,slices=117": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1110101"
+    },
+    "axis=y,slices=118": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1110110"
+    },
+    "axis=y,slices=119": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1110111"
+    },
+    "axis=y,slices=12": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1100"
+    },
+    "axis=y,slices=120": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1111000"
+    },
+    "axis=y,slices=121": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1111001"
+    },
+    "axis=y,slices=122": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1111010"
+    },
+    "axis=y,slices=123": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1111011"
+    },
+    "axis=y,slices=124": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1111100"
+    },
+    "axis=y,slices=125": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1111101"
+    },
+    "axis=y,slices=126": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1111110"
+    },
+    "axis=y,slices=127": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1111111"
+    },
+    "axis=y,slices=128": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10000000"
+    },
+    "axis=y,slices=129": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10000001"
+    },
+    "axis=y,slices=13": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1101"
+    },
+    "axis=y,slices=130": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10000010"
+    },
+    "axis=y,slices=131": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10000011"
+    },
+    "axis=y,slices=132": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10000100"
+    },
+    "axis=y,slices=133": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10000101"
+    },
+    "axis=y,slices=134": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10000110"
+    },
+    "axis=y,slices=135": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10000111"
+    },
+    "axis=y,slices=136": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10001000"
+    },
+    "axis=y,slices=137": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10001001"
+    },
+    "axis=y,slices=138": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10001010"
+    },
+    "axis=y,slices=139": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10001011"
+    },
+    "axis=y,slices=14": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1110"
+    },
+    "axis=y,slices=140": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10001100"
+    },
+    "axis=y,slices=141": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10001101"
+    },
+    "axis=y,slices=142": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10001110"
+    },
+    "axis=y,slices=143": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10001111"
+    },
+    "axis=y,slices=144": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10010000"
+    },
+    "axis=y,slices=145": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10010001"
+    },
+    "axis=y,slices=146": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10010010"
+    },
+    "axis=y,slices=147": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10010011"
+    },
+    "axis=y,slices=148": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10010100"
+    },
+    "axis=y,slices=149": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10010101"
+    },
+    "axis=y,slices=15": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1111"
+    },
+    "axis=y,slices=150": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10010110"
+    },
+    "axis=y,slices=151": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10010111"
+    },
+    "axis=y,slices=152": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10011000"
+    },
+    "axis=y,slices=153": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10011001"
+    },
+    "axis=y,slices=154": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10011010"
+    },
+    "axis=y,slices=155": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10011011"
+    },
+    "axis=y,slices=156": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10011100"
+    },
+    "axis=y,slices=157": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10011101"
+    },
+    "axis=y,slices=158": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10011110"
+    },
+    "axis=y,slices=159": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10011111"
+    },
+    "axis=y,slices=16": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10000"
+    },
+    "axis=y,slices=160": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10100000"
+    },
+    "axis=y,slices=161": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10100001"
+    },
+    "axis=y,slices=162": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10100010"
+    },
+    "axis=y,slices=163": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10100011"
+    },
+    "axis=y,slices=164": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10100100"
+    },
+    "axis=y,slices=165": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10100101"
+    },
+    "axis=y,slices=166": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10100110"
+    },
+    "axis=y,slices=167": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10100111"
+    },
+    "axis=y,slices=168": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10101000"
+    },
+    "axis=y,slices=169": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10101001"
+    },
+    "axis=y,slices=17": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10001"
+    },
+    "axis=y,slices=170": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10101010"
+    },
+    "axis=y,slices=171": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10101011"
+    },
+    "axis=y,slices=172": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10101100"
+    },
+    "axis=y,slices=173": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10101101"
+    },
+    "axis=y,slices=174": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10101110"
+    },
+    "axis=y,slices=175": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10101111"
+    },
+    "axis=y,slices=176": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10110000"
+    },
+    "axis=y,slices=177": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10110001"
+    },
+    "axis=y,slices=178": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10110010"
+    },
+    "axis=y,slices=179": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10110011"
+    },
+    "axis=y,slices=18": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10010"
+    },
+    "axis=y,slices=180": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10110100"
+    },
+    "axis=y,slices=181": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10110101"
+    },
+    "axis=y,slices=182": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10110110"
+    },
+    "axis=y,slices=183": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10110111"
+    },
+    "axis=y,slices=184": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10111000"
+    },
+    "axis=y,slices=185": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10111001"
+    },
+    "axis=y,slices=186": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10111010"
+    },
+    "axis=y,slices=187": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10111011"
+    },
+    "axis=y,slices=188": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10111100"
+    },
+    "axis=y,slices=189": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10111101"
+    },
+    "axis=y,slices=19": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10011"
+    },
+    "axis=y,slices=190": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10111110"
+    },
+    "axis=y,slices=191": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10111111"
+    },
+    "axis=y,slices=192": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11000000"
+    },
+    "axis=y,slices=193": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11000001"
+    },
+    "axis=y,slices=194": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11000010"
+    },
+    "axis=y,slices=195": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11000011"
+    },
+    "axis=y,slices=196": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11000100"
+    },
+    "axis=y,slices=197": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11000101"
+    },
+    "axis=y,slices=198": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11000110"
+    },
+    "axis=y,slices=199": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11000111"
+    },
+    "axis=y,slices=2": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10"
+    },
+    "axis=y,slices=20": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10100"
+    },
+    "axis=y,slices=200": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11001000"
+    },
+    "axis=y,slices=201": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11001001"
+    },
+    "axis=y,slices=202": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11001010"
+    },
+    "axis=y,slices=203": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11001011"
+    },
+    "axis=y,slices=204": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11001100"
+    },
+    "axis=y,slices=205": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11001101"
+    },
+    "axis=y,slices=206": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11001110"
+    },
+    "axis=y,slices=207": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11001111"
+    },
+    "axis=y,slices=208": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11010000"
+    },
+    "axis=y,slices=209": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11010001"
+    },
+    "axis=y,slices=21": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10101"
+    },
+    "axis=y,slices=210": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11010010"
+    },
+    "axis=y,slices=211": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11010011"
+    },
+    "axis=y,slices=212": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11010100"
+    },
+    "axis=y,slices=213": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11010101"
+    },
+    "axis=y,slices=214": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11010110"
+    },
+    "axis=y,slices=215": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11010111"
+    },
+    "axis=y,slices=216": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11011000"
+    },
+    "axis=y,slices=217": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11011001"
+    },
+    "axis=y,slices=218": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11011010"
+    },
+    "axis=y,slices=219": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11011011"
+    },
+    "axis=y,slices=22": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10110"
+    },
+    "axis=y,slices=220": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11011100"
+    },
+    "axis=y,slices=221": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11011101"
+    },
+    "axis=y,slices=222": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11011110"
+    },
+    "axis=y,slices=223": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11011111"
+    },
+    "axis=y,slices=224": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11100000"
+    },
+    "axis=y,slices=225": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11100001"
+    },
+    "axis=y,slices=226": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11100010"
+    },
+    "axis=y,slices=227": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11100011"
+    },
+    "axis=y,slices=228": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11100100"
+    },
+    "axis=y,slices=229": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11100101"
+    },
+    "axis=y,slices=23": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_10111"
+    },
+    "axis=y,slices=230": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11100110"
+    },
+    "axis=y,slices=231": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11100111"
+    },
+    "axis=y,slices=232": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11101000"
+    },
+    "axis=y,slices=233": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11101001"
+    },
+    "axis=y,slices=234": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11101010"
+    },
+    "axis=y,slices=235": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11101011"
+    },
+    "axis=y,slices=236": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11101100"
+    },
+    "axis=y,slices=237": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11101101"
+    },
+    "axis=y,slices=238": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11101110"
+    },
+    "axis=y,slices=239": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11101111"
+    },
+    "axis=y,slices=24": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11000"
+    },
+    "axis=y,slices=240": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11110000"
+    },
+    "axis=y,slices=241": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11110001"
+    },
+    "axis=y,slices=242": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11110010"
+    },
+    "axis=y,slices=243": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11110011"
+    },
+    "axis=y,slices=244": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11110100"
+    },
+    "axis=y,slices=245": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11110101"
+    },
+    "axis=y,slices=246": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11110110"
+    },
+    "axis=y,slices=247": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11110111"
+    },
+    "axis=y,slices=248": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11111000"
+    },
+    "axis=y,slices=249": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11111001"
+    },
+    "axis=y,slices=25": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11001"
+    },
+    "axis=y,slices=250": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11111010"
+    },
+    "axis=y,slices=251": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11111011"
+    },
+    "axis=y,slices=252": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11111100"
+    },
+    "axis=y,slices=253": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11111101"
+    },
+    "axis=y,slices=254": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11111110"
+    },
+    "axis=y,slices=255": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11111111"
+    },
+    "axis=y,slices=26": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11010"
+    },
+    "axis=y,slices=27": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11011"
+    },
+    "axis=y,slices=28": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11100"
+    },
+    "axis=y,slices=29": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11101"
+    },
+    "axis=y,slices=3": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11"
+    },
+    "axis=y,slices=30": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11110"
+    },
+    "axis=y,slices=31": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_11111"
+    },
+    "axis=y,slices=32": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_100000"
+    },
+    "axis=y,slices=33": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_100001"
+    },
+    "axis=y,slices=34": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_100010"
+    },
+    "axis=y,slices=35": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_100011"
+    },
+    "axis=y,slices=36": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_100100"
+    },
+    "axis=y,slices=37": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_100101"
+    },
+    "axis=y,slices=38": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_100110"
+    },
+    "axis=y,slices=39": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_100111"
+    },
+    "axis=y,slices=4": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_100"
+    },
+    "axis=y,slices=40": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_101000"
+    },
+    "axis=y,slices=41": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_101001"
+    },
+    "axis=y,slices=42": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_101010"
+    },
+    "axis=y,slices=43": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_101011"
+    },
+    "axis=y,slices=44": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_101100"
+    },
+    "axis=y,slices=45": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_101101"
+    },
+    "axis=y,slices=46": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_101110"
+    },
+    "axis=y,slices=47": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_101111"
+    },
+    "axis=y,slices=48": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_110000"
+    },
+    "axis=y,slices=49": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_110001"
+    },
+    "axis=y,slices=5": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_101"
+    },
+    "axis=y,slices=50": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_110010"
+    },
+    "axis=y,slices=51": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_110011"
+    },
+    "axis=y,slices=52": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_110100"
+    },
+    "axis=y,slices=53": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_110101"
+    },
+    "axis=y,slices=54": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_110110"
+    },
+    "axis=y,slices=55": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_110111"
+    },
+    "axis=y,slices=56": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_111000"
+    },
+    "axis=y,slices=57": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_111001"
+    },
+    "axis=y,slices=58": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_111010"
+    },
+    "axis=y,slices=59": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_111011"
+    },
+    "axis=y,slices=6": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_110"
+    },
+    "axis=y,slices=60": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_111100"
+    },
+    "axis=y,slices=61": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_111101"
+    },
+    "axis=y,slices=62": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_111110"
+    },
+    "axis=y,slices=63": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_111111"
+    },
+    "axis=y,slices=64": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1000000"
+    },
+    "axis=y,slices=65": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1000001"
+    },
+    "axis=y,slices=66": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1000010"
+    },
+    "axis=y,slices=67": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1000011"
+    },
+    "axis=y,slices=68": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1000100"
+    },
+    "axis=y,slices=69": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1000101"
+    },
+    "axis=y,slices=7": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_111"
+    },
+    "axis=y,slices=70": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1000110"
+    },
+    "axis=y,slices=71": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1000111"
+    },
+    "axis=y,slices=72": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1001000"
+    },
+    "axis=y,slices=73": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1001001"
+    },
+    "axis=y,slices=74": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1001010"
+    },
+    "axis=y,slices=75": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1001011"
+    },
+    "axis=y,slices=76": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1001100"
+    },
+    "axis=y,slices=77": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1001101"
+    },
+    "axis=y,slices=78": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1001110"
+    },
+    "axis=y,slices=79": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1001111"
+    },
+    "axis=y,slices=8": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1000"
+    },
+    "axis=y,slices=80": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1010000"
+    },
+    "axis=y,slices=81": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1010001"
+    },
+    "axis=y,slices=82": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1010010"
+    },
+    "axis=y,slices=83": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1010011"
+    },
+    "axis=y,slices=84": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1010100"
+    },
+    "axis=y,slices=85": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1010101"
+    },
+    "axis=y,slices=86": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1010110"
+    },
+    "axis=y,slices=87": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1010111"
+    },
+    "axis=y,slices=88": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1011000"
+    },
+    "axis=y,slices=89": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1011001"
+    },
+    "axis=y,slices=9": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1001"
+    },
+    "axis=y,slices=90": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1011010"
+    },
+    "axis=y,slices=91": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1011011"
+    },
+    "axis=y,slices=92": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1011100"
+    },
+    "axis=y,slices=93": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1011101"
+    },
+    "axis=y,slices=94": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1011110"
+    },
+    "axis=y,slices=95": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1011111"
+    },
+    "axis=y,slices=96": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1100000"
+    },
+    "axis=y,slices=97": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1100001"
+    },
+    "axis=y,slices=98": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1100010"
+    },
+    "axis=y,slices=99": {
+      "model": "bettercheesemodel:block/oak_log_y/oak_log_y_1100011"
+    },
+    "axis=z,slices=1": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1"
+    },
+    "axis=z,slices=10": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1010"
+    },
+    "axis=z,slices=100": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1100100"
+    },
+    "axis=z,slices=101": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1100101"
+    },
+    "axis=z,slices=102": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1100110"
+    },
+    "axis=z,slices=103": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1100111"
+    },
+    "axis=z,slices=104": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1101000"
+    },
+    "axis=z,slices=105": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1101001"
+    },
+    "axis=z,slices=106": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1101010"
+    },
+    "axis=z,slices=107": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1101011"
+    },
+    "axis=z,slices=108": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1101100"
+    },
+    "axis=z,slices=109": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1101101"
+    },
+    "axis=z,slices=11": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1011"
+    },
+    "axis=z,slices=110": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1101110"
+    },
+    "axis=z,slices=111": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1101111"
+    },
+    "axis=z,slices=112": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1110000"
+    },
+    "axis=z,slices=113": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1110001"
+    },
+    "axis=z,slices=114": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1110010"
+    },
+    "axis=z,slices=115": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1110011"
+    },
+    "axis=z,slices=116": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1110100"
+    },
+    "axis=z,slices=117": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1110101"
+    },
+    "axis=z,slices=118": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1110110"
+    },
+    "axis=z,slices=119": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1110111"
+    },
+    "axis=z,slices=12": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1100"
+    },
+    "axis=z,slices=120": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1111000"
+    },
+    "axis=z,slices=121": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1111001"
+    },
+    "axis=z,slices=122": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1111010"
+    },
+    "axis=z,slices=123": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1111011"
+    },
+    "axis=z,slices=124": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1111100"
+    },
+    "axis=z,slices=125": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1111101"
+    },
+    "axis=z,slices=126": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1111110"
+    },
+    "axis=z,slices=127": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1111111"
+    },
+    "axis=z,slices=128": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10000000"
+    },
+    "axis=z,slices=129": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10000001"
+    },
+    "axis=z,slices=13": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1101"
+    },
+    "axis=z,slices=130": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10000010"
+    },
+    "axis=z,slices=131": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10000011"
+    },
+    "axis=z,slices=132": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10000100"
+    },
+    "axis=z,slices=133": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10000101"
+    },
+    "axis=z,slices=134": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10000110"
+    },
+    "axis=z,slices=135": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10000111"
+    },
+    "axis=z,slices=136": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10001000"
+    },
+    "axis=z,slices=137": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10001001"
+    },
+    "axis=z,slices=138": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10001010"
+    },
+    "axis=z,slices=139": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10001011"
+    },
+    "axis=z,slices=14": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1110"
+    },
+    "axis=z,slices=140": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10001100"
+    },
+    "axis=z,slices=141": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10001101"
+    },
+    "axis=z,slices=142": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10001110"
+    },
+    "axis=z,slices=143": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10001111"
+    },
+    "axis=z,slices=144": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10010000"
+    },
+    "axis=z,slices=145": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10010001"
+    },
+    "axis=z,slices=146": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10010010"
+    },
+    "axis=z,slices=147": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10010011"
+    },
+    "axis=z,slices=148": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10010100"
+    },
+    "axis=z,slices=149": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10010101"
+    },
+    "axis=z,slices=15": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1111"
+    },
+    "axis=z,slices=150": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10010110"
+    },
+    "axis=z,slices=151": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10010111"
+    },
+    "axis=z,slices=152": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10011000"
+    },
+    "axis=z,slices=153": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10011001"
+    },
+    "axis=z,slices=154": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10011010"
+    },
+    "axis=z,slices=155": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10011011"
+    },
+    "axis=z,slices=156": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10011100"
+    },
+    "axis=z,slices=157": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10011101"
+    },
+    "axis=z,slices=158": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10011110"
+    },
+    "axis=z,slices=159": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10011111"
+    },
+    "axis=z,slices=16": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10000"
+    },
+    "axis=z,slices=160": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10100000"
+    },
+    "axis=z,slices=161": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10100001"
+    },
+    "axis=z,slices=162": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10100010"
+    },
+    "axis=z,slices=163": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10100011"
+    },
+    "axis=z,slices=164": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10100100"
+    },
+    "axis=z,slices=165": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10100101"
+    },
+    "axis=z,slices=166": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10100110"
+    },
+    "axis=z,slices=167": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10100111"
+    },
+    "axis=z,slices=168": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10101000"
+    },
+    "axis=z,slices=169": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10101001"
+    },
+    "axis=z,slices=17": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10001"
+    },
+    "axis=z,slices=170": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10101010"
+    },
+    "axis=z,slices=171": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10101011"
+    },
+    "axis=z,slices=172": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10101100"
+    },
+    "axis=z,slices=173": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10101101"
+    },
+    "axis=z,slices=174": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10101110"
+    },
+    "axis=z,slices=175": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10101111"
+    },
+    "axis=z,slices=176": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10110000"
+    },
+    "axis=z,slices=177": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10110001"
+    },
+    "axis=z,slices=178": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10110010"
+    },
+    "axis=z,slices=179": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10110011"
+    },
+    "axis=z,slices=18": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10010"
+    },
+    "axis=z,slices=180": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10110100"
+    },
+    "axis=z,slices=181": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10110101"
+    },
+    "axis=z,slices=182": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10110110"
+    },
+    "axis=z,slices=183": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10110111"
+    },
+    "axis=z,slices=184": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10111000"
+    },
+    "axis=z,slices=185": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10111001"
+    },
+    "axis=z,slices=186": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10111010"
+    },
+    "axis=z,slices=187": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10111011"
+    },
+    "axis=z,slices=188": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10111100"
+    },
+    "axis=z,slices=189": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10111101"
+    },
+    "axis=z,slices=19": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10011"
+    },
+    "axis=z,slices=190": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10111110"
+    },
+    "axis=z,slices=191": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10111111"
+    },
+    "axis=z,slices=192": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11000000"
+    },
+    "axis=z,slices=193": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11000001"
+    },
+    "axis=z,slices=194": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11000010"
+    },
+    "axis=z,slices=195": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11000011"
+    },
+    "axis=z,slices=196": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11000100"
+    },
+    "axis=z,slices=197": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11000101"
+    },
+    "axis=z,slices=198": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11000110"
+    },
+    "axis=z,slices=199": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11000111"
+    },
+    "axis=z,slices=2": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10"
+    },
+    "axis=z,slices=20": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10100"
+    },
+    "axis=z,slices=200": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11001000"
+    },
+    "axis=z,slices=201": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11001001"
+    },
+    "axis=z,slices=202": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11001010"
+    },
+    "axis=z,slices=203": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11001011"
+    },
+    "axis=z,slices=204": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11001100"
+    },
+    "axis=z,slices=205": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11001101"
+    },
+    "axis=z,slices=206": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11001110"
+    },
+    "axis=z,slices=207": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11001111"
+    },
+    "axis=z,slices=208": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11010000"
+    },
+    "axis=z,slices=209": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11010001"
+    },
+    "axis=z,slices=21": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10101"
+    },
+    "axis=z,slices=210": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11010010"
+    },
+    "axis=z,slices=211": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11010011"
+    },
+    "axis=z,slices=212": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11010100"
+    },
+    "axis=z,slices=213": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11010101"
+    },
+    "axis=z,slices=214": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11010110"
+    },
+    "axis=z,slices=215": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11010111"
+    },
+    "axis=z,slices=216": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11011000"
+    },
+    "axis=z,slices=217": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11011001"
+    },
+    "axis=z,slices=218": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11011010"
+    },
+    "axis=z,slices=219": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11011011"
+    },
+    "axis=z,slices=22": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10110"
+    },
+    "axis=z,slices=220": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11011100"
+    },
+    "axis=z,slices=221": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11011101"
+    },
+    "axis=z,slices=222": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11011110"
+    },
+    "axis=z,slices=223": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11011111"
+    },
+    "axis=z,slices=224": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11100000"
+    },
+    "axis=z,slices=225": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11100001"
+    },
+    "axis=z,slices=226": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11100010"
+    },
+    "axis=z,slices=227": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11100011"
+    },
+    "axis=z,slices=228": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11100100"
+    },
+    "axis=z,slices=229": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11100101"
+    },
+    "axis=z,slices=23": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_10111"
+    },
+    "axis=z,slices=230": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11100110"
+    },
+    "axis=z,slices=231": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11100111"
+    },
+    "axis=z,slices=232": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11101000"
+    },
+    "axis=z,slices=233": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11101001"
+    },
+    "axis=z,slices=234": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11101010"
+    },
+    "axis=z,slices=235": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11101011"
+    },
+    "axis=z,slices=236": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11101100"
+    },
+    "axis=z,slices=237": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11101101"
+    },
+    "axis=z,slices=238": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11101110"
+    },
+    "axis=z,slices=239": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11101111"
+    },
+    "axis=z,slices=24": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11000"
+    },
+    "axis=z,slices=240": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11110000"
+    },
+    "axis=z,slices=241": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11110001"
+    },
+    "axis=z,slices=242": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11110010"
+    },
+    "axis=z,slices=243": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11110011"
+    },
+    "axis=z,slices=244": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11110100"
+    },
+    "axis=z,slices=245": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11110101"
+    },
+    "axis=z,slices=246": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11110110"
+    },
+    "axis=z,slices=247": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11110111"
+    },
+    "axis=z,slices=248": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11111000"
+    },
+    "axis=z,slices=249": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11111001"
+    },
+    "axis=z,slices=25": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11001"
+    },
+    "axis=z,slices=250": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11111010"
+    },
+    "axis=z,slices=251": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11111011"
+    },
+    "axis=z,slices=252": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11111100"
+    },
+    "axis=z,slices=253": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11111101"
+    },
+    "axis=z,slices=254": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11111110"
+    },
+    "axis=z,slices=255": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11111111"
+    },
+    "axis=z,slices=26": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11010"
+    },
+    "axis=z,slices=27": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11011"
+    },
+    "axis=z,slices=28": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11100"
+    },
+    "axis=z,slices=29": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11101"
+    },
+    "axis=z,slices=3": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11"
+    },
+    "axis=z,slices=30": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11110"
+    },
+    "axis=z,slices=31": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_11111"
+    },
+    "axis=z,slices=32": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_100000"
+    },
+    "axis=z,slices=33": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_100001"
+    },
+    "axis=z,slices=34": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_100010"
+    },
+    "axis=z,slices=35": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_100011"
+    },
+    "axis=z,slices=36": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_100100"
+    },
+    "axis=z,slices=37": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_100101"
+    },
+    "axis=z,slices=38": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_100110"
+    },
+    "axis=z,slices=39": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_100111"
+    },
+    "axis=z,slices=4": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_100"
+    },
+    "axis=z,slices=40": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_101000"
+    },
+    "axis=z,slices=41": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_101001"
+    },
+    "axis=z,slices=42": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_101010"
+    },
+    "axis=z,slices=43": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_101011"
+    },
+    "axis=z,slices=44": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_101100"
+    },
+    "axis=z,slices=45": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_101101"
+    },
+    "axis=z,slices=46": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_101110"
+    },
+    "axis=z,slices=47": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_101111"
+    },
+    "axis=z,slices=48": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_110000"
+    },
+    "axis=z,slices=49": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_110001"
+    },
+    "axis=z,slices=5": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_101"
+    },
+    "axis=z,slices=50": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_110010"
+    },
+    "axis=z,slices=51": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_110011"
+    },
+    "axis=z,slices=52": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_110100"
+    },
+    "axis=z,slices=53": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_110101"
+    },
+    "axis=z,slices=54": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_110110"
+    },
+    "axis=z,slices=55": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_110111"
+    },
+    "axis=z,slices=56": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_111000"
+    },
+    "axis=z,slices=57": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_111001"
+    },
+    "axis=z,slices=58": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_111010"
+    },
+    "axis=z,slices=59": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_111011"
+    },
+    "axis=z,slices=6": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_110"
+    },
+    "axis=z,slices=60": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_111100"
+    },
+    "axis=z,slices=61": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_111101"
+    },
+    "axis=z,slices=62": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_111110"
+    },
+    "axis=z,slices=63": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_111111"
+    },
+    "axis=z,slices=64": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1000000"
+    },
+    "axis=z,slices=65": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1000001"
+    },
+    "axis=z,slices=66": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1000010"
+    },
+    "axis=z,slices=67": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1000011"
+    },
+    "axis=z,slices=68": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1000100"
+    },
+    "axis=z,slices=69": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1000101"
+    },
+    "axis=z,slices=7": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_111"
+    },
+    "axis=z,slices=70": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1000110"
+    },
+    "axis=z,slices=71": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1000111"
+    },
+    "axis=z,slices=72": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1001000"
+    },
+    "axis=z,slices=73": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1001001"
+    },
+    "axis=z,slices=74": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1001010"
+    },
+    "axis=z,slices=75": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1001011"
+    },
+    "axis=z,slices=76": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1001100"
+    },
+    "axis=z,slices=77": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1001101"
+    },
+    "axis=z,slices=78": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1001110"
+    },
+    "axis=z,slices=79": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1001111"
+    },
+    "axis=z,slices=8": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1000"
+    },
+    "axis=z,slices=80": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1010000"
+    },
+    "axis=z,slices=81": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1010001"
+    },
+    "axis=z,slices=82": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1010010"
+    },
+    "axis=z,slices=83": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1010011"
+    },
+    "axis=z,slices=84": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1010100"
+    },
+    "axis=z,slices=85": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1010101"
+    },
+    "axis=z,slices=86": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1010110"
+    },
+    "axis=z,slices=87": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1010111"
+    },
+    "axis=z,slices=88": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1011000"
+    },
+    "axis=z,slices=89": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1011001"
+    },
+    "axis=z,slices=9": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1001"
+    },
+    "axis=z,slices=90": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1011010"
+    },
+    "axis=z,slices=91": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1011011"
+    },
+    "axis=z,slices=92": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1011100"
+    },
+    "axis=z,slices=93": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1011101"
+    },
+    "axis=z,slices=94": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1011110"
+    },
+    "axis=z,slices=95": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1011111"
+    },
+    "axis=z,slices=96": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1100000"
+    },
+    "axis=z,slices=97": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1100001"
+    },
+    "axis=z,slices=98": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1100010"
+    },
+    "axis=z,slices=99": {
+      "model": "bettercheesemodel:block/oak_log_z/oak_log_z_1100011"
+    }
+  }
+}
