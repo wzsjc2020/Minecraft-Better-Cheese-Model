@@ -2,6 +2,7 @@ package com.wzssoft.bettercheesemodel.registry;
 
 import com.wzssoft.bettercheesemodel.BCMMod;
 import com.wzssoft.bettercheesemodel.common.block.CheeseBlock;
+import com.wzssoft.bettercheesemodel.common.block.GlassCheeseBlock;
 import com.wzssoft.bettercheesemodel.common.block.PillarCheeseBlock;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.*;
@@ -35,7 +36,11 @@ public class BCMBlocks {
             new CheeseBlock(FabricBlockSettings.of(Material.STONE, MapColor.DARK_GREEN).strength(0.1f).sounds(BlockSoundGroup.FUNGUS).nonOpaque()));
 
     public static final Block GLOBE_BLOCK = registerBlock("globe",
-            new CheeseBlock(FabricBlockSettings.of(Material.STONE, MapColor.LIGHT_BLUE).strength(0.1f).sounds(BlockSoundGroup.FUNGUS)));
+            new GlassCheeseBlock(FabricBlockSettings.of(Material.STONE, MapColor.LIGHT_BLUE).strength(0.1f).sounds(BlockSoundGroup.FUNGUS).nonOpaque()));
+
+    public static final Block GLASS_BLOCK = registerBlock("glass",
+            new GlassCheeseBlock(FabricBlockSettings.of(Material.STONE, MapColor.CLEAR).strength(0.1f).sounds(BlockSoundGroup.FUNGUS).nonOpaque()));
+
 
     //register oak block
     private static PillarCheeseBlock createLogBlock(MapColor topMapColor, MapColor sideMapColor) {

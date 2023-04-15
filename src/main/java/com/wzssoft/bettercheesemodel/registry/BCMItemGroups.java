@@ -22,6 +22,7 @@ public class BCMItemGroups {
                 entries.add(BCMBlockItems.OAK_LOG_BLOCK_ITEM);
                 entries.add(BCMBlockItems.OAK_LEAVES_BLOCK_ITEM);
                 entries.add(BCMBlockItems.GLOBE_BLOCK_ITEM);
+                entries.add(BCMBlockItems.GLASS_BLOCK_ITEM);
 
             })
             .build();

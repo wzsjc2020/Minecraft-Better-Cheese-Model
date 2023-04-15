@@ -35,6 +35,8 @@ public class BCMBlockItems {
     public static final Item GLOBE_BLOCK_ITEM = registerBlockItem("globe",
             new BlockItem(BCMBlocks.GLOBE_BLOCK, new FabricItemSettings().rarity(Rarity.COMMON)));
 
+    public static final Item GLASS_BLOCK_ITEM = registerBlockItem("glass",
+            new BlockItem(BCMBlocks.GLASS_BLOCK, new FabricItemSettings().rarity(Rarity.COMMON)));
 
 
     public static Item registerBlockItem(String name, BlockItem blockitem) {

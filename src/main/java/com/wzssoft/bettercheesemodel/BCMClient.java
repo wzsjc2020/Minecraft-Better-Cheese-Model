@@ -16,5 +16,11 @@ public class BCMClient implements ClientModInitializer {
         BlockRenderLayerMap.INSTANCE.putBlock(BCMBlocks.OAK_LEAVES_BLOCK, RenderLayer.getCutout());
         ColorProviderRegistry.ITEM.register((stack, tintIndex) -> 0x30bb0b, BCMBlocks.OAK_LEAVES_BLOCK);
         ColorProviderRegistry.BLOCK.register((state, world, pos, tintIndex) -> world.getColor(pos, BiomeColors.FOLIAGE_COLOR), BCMBlocks.OAK_LEAVES_BLOCK);
+
+        //tiled globe
+        BlockRenderLayerMap.INSTANCE.putBlock(BCMBlocks.GLOBE_BLOCK, RenderLayer.getCutout());
+
+        //tiled glass
+        BlockRenderLayerMap.INSTANCE.putBlock(BCMBlocks.GLASS_BLOCK, RenderLayer.getCutout());
     }
 }
